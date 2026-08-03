@@ -1,0 +1,16 @@
+Employee_ID,Name,Department,Age,Experience_Years,Monthly_Salary,Performance_Score
+201,Aarav,IT,25.0,2,35000.0,82
+202,Diya,HR,28.0,4,42000.0,88
+203,Rohan,Finance,30.0,6,50000.0,91
+204,Meera,IT,26.0,3,38000.0,85
+205,Arjun,Marketing,29.0,5,45000.0,79
+206,Kavya,Finance,31.0,7,55000.0,94
+207,Rahul,IT,28.533333333333335,4,41000.0,87
+208,Priya,HR,27.0,3,46066.666666666664,84
+209,Vikram,Marketing,32.0,8,60000.0,90
+210,Ananya,IT,24.0,1,32000.0,78
+211,Kiran,Finance,35.0,10,70000.0,96
+212,Sneha,HR,29.0,5,47000.0,89
+213,Varun,Marketing,28.0,4,44000.0,83
+214,Ishita,IT,30.0,6,52000.0,92
+215,Aditya,Finance,27.0,3,40000.0,86
