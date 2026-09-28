@@ -1,0 +1,17 @@
+SUBMISSION QUICK NOTES
+
+Project: Sentiment Analyzer for Product Reviews
+
+Weeks completed:
+Week 4 - Text cleaning
+Week 5 - Logistic Regression classifier
+Weeks 6-7 - Testing + error analysis + limitations
+Week 8 - Cleanup + GitHub + README
+
+GitHub commands:
+git init
+git add .
+git commit -m "Complete sentiment analyzer project"
+git branch -M main
+git remote add origin YOUR_GITHUB_REPO_URL
+git push -u origin main
